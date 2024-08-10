@@ -14,7 +14,8 @@ Build a model to predict "mean_temp" with a RMSE of 3 or less.
 Use MLflow to log any models you train, their hyperparameters, and respective RMSE scores (ensuring you include "rmse" as part of the metric name).
 Search all of your mlflow runs and store the results as a variable called experiment_results.
 
-![tower_bridge](tower_bridge.jpg)
+![image](https://github.com/user-attachments/assets/1e3c655d-fbac-4223-82b9-586bc8c89418)
+
 
 As the climate changes, predicting the weather becomes ever more important for businesses. You have been asked to support on a machine learning project with the aim of building a pipeline to predict the climate in London, England. Specifically, the model should predict mean temperature in degrees Celsius (°C).
 
